@@ -1,0 +1,201 @@
+ID;Kategorija;Ocjena_posjetitelja;Parking_mjesto;Bazen_fitness_centar;Pet_friendly;Broj_odraslih;Broj_djece;Broj_iznajmljenih_soba;Udaljenost_od_centra_grada (km);Lokacija;Cijena_smjestaja_za_jednu_noc (KM);Sadrzaj_za_djecu
+1;apartman;8,7;ima parking;ne posjeduje bazen i fitness centar;ne;2;1;1;2,01;FBIH;156;da
+2;apartman;9;ima parking;ne posjeduje bazen i fitness centar;ne;2;2;2;0,488389289;FBIH;170;da
+3;apartman;9,2;nema parking;ne posjeduje bazen i fitness centar;da;1;1;1;2;FBIH;127;da
+4;apartman;6,6;ima parking;ne posjeduje bazen i fitness centar;ne;1;1;1;2,56;RS;117;da
+5;apartman;8,4;nema parking;ne posjeduje bazen i fitness centar;da;2;0;1;4,54;RS;88;da
+6;apartman;8,3;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;5;RS;68;ne
+7;apartman;9,5;ima parking;ne posjeduje bazen i fitness centar;ne;1;0;1;4,54;FBIH;88;da
+8;apartman;6;nema parking;ne posjeduje bazen i fitness centar;da;2;0;1;5;RS;68;da
+9;apartman;5,2;nema parking;ne posjeduje bazen i fitness centar;ne;2;0;1;5,54;RS;59;ne
+10;apartman;9,3;ima parking;ima bazen i fitness centar;da;2;3;3;0,34;FBIH;254;da
+11;apartman;8,6;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;2;RS;127;ne
+12;apartman;5,7;ima parking;ne posjeduje bazen i fitness centar;ne;2;1;1;2,182707104;RS;91;da
+13;apartman;7,7;ima parking;ne posjeduje bazen i fitness centar;ne;3;0;2;2,87;FBIH;108;da
+14;apartman;9,7;nema parking;ne posjeduje bazen i fitness centar;ne;2;0;1;4;RS;98;da
+15;apartman;8,7;ima parking;ne posjeduje bazen i fitness centar;ne;1;1;1;4,54;RS;88;ne
+16;apartman;7,4;ima parking;ne posjeduje bazen i fitness centar;ne;1;1;1;3,7;FBIH;104;da
+17;apartman;5,5;ima parking;ne posjeduje bazen i fitness centar;ne;1;0;1;4,67;RS;74;ne
+18;apartman;9,1;ima parking;ima bazen i fitness centar;da;2;0;1;0,34;FBIH;196;da
+19;apartman;8,4;nema parking;ne posjeduje bazen i fitness centar;da;2;0;1;4;RS;98;ne
+20;apartman;7;ima parking;ne posjeduje bazen i fitness centar;da;1;1;1;4,66;RS;80;ne
+21;apartman;9,4;ima parking;ne posjeduje bazen i fitness centar;ne;1;0;1;3,9;RS;100;da
+22;apartman;7,7;ima parking;ne posjeduje bazen i fitness centar;da;2;1;2;3,9;FBIH;100;da
+23;apartman;9,3;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;4;FBIH;98;ne
+24;hotel;8,1;ima parking;ima bazen i fitness centar;da;1;0;1;0,49;FBIH;170;da
+25;apartman;6,7;ima parking;ne posjeduje bazen i fitness centar;ne;2;2;2;1,01;FBIH;162;da
+26;apartman;9,3;ima parking;ne posjeduje bazen i fitness centar;da;2;1;1;2,5;FBIH;139;da
+27;apartman;6,7;nema parking;ne posjeduje bazen i fitness centar;ne;2;0;1;4,2;RS;78;ne
+28;apartman;7;nema parking;ne posjeduje bazen i fitness centar;ne;2;0;1;4,22;RS;74;ne
+29;apartman;7,2;nema parking;ne posjeduje bazen i fitness centar;ne;2;0;1;4,2;RS;78;da
+30;apartman;9,1;ima parking;ima bazen i fitness centar;ne;1;1;1;2,89;FBIH;106;da
+31;apartman;8,8;ima parking;ne posjeduje bazen i fitness centar;ne;2;1;1;2,87;FBIH;108;da
+32;apartman;8,5;ima parking;ne posjeduje bazen i fitness centar;da;2;0;1;3,9;RS;100;da
+33;apartman;6;nema parking;ne posjeduje bazen i fitness centar;ne;1;0;1;5,34;FBIH;55;da
+34;apartman;9,4;ima parking;ne posjeduje bazen i fitness centar;da;1;0;1;4,56;RS;80;da
+35;apartman;9,1;ima parking;ima bazen i fitness centar;da;2;2;2;2,45;RS;140;da
+36;apartman;8;nema parking;ne posjeduje bazen i fitness centar;ne;2;0;1;4,95;RS;70;ne
+37;apartman;9,4;ima parking;ima bazen i fitness centar;da;3;0;1;1,01;FBIH;162;da
+38;apartman;8,8;ima parking;ne posjeduje bazen i fitness centar;da;2;0;1;2;FBIH;127;da
+39;apartman;8,7;nema parking;ne posjeduje bazen i fitness centar;ne;2;0;1;3,7;RS;104;da
+40;apartman;9,7;ima parking;ima bazen i fitness centar;ne;2;0;1;2,56;RS;117;da
+41;apartman;8,8;ima parking;ima bazen i fitness centar;da;2;1;2;2,01;FBIH;156;da
+42;apartman;9,1;nema parking;ne posjeduje bazen i fitness centar;ne;2;0;1;3,9;FBIH;100;da
+43;apartman;5,6;nema parking;ne posjeduje bazen i fitness centar;ne;2;0;1;4,2;RS;78;ne
+44;apartman;6,8;ima parking;ne posjeduje bazen i fitness centar;da;2;0;1;3,87;RS;111;da
+45;apartman;9,5;ima parking;ne posjeduje bazen i fitness centar;ne;3;0;1;4,54;FBIH;88;ne
+46;apartman;8,1;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;3,87;RS;94;ne
+47;apartman;9,7;ima parking;ne posjeduje bazen i fitness centar;da;2;1;1;3,89;FBIH;102;ne
+48;apartman;8;ima parking;ima bazen i fitness centar;da;3;0;2;3,55;FBIH;164;da
+49;apartman;9,6;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;3,89;RS;84;ne
+50;hotel;9;ima parking;ima bazen i fitness centar;da;1;0;1;0,23;FBIH;227;da
+51;apartman;6;ima parking;ne posjeduje bazen i fitness centar;ne;3;0;1;5;RS;68;ne
+52;apartman;8,2;ima parking;ima bazen i fitness centar;da;2;0;1;2,56;FBIH;117;da
+53;apartman;8,5;ima parking;ne posjeduje bazen i fitness centar;da;2;2;1;5,54;RS;59;ne
+54;apartman;9,4;ima parking;ne posjeduje bazen i fitness centar;ne;2;3;3;0,25;FBIH;215;da
+55;apartman;7;nema parking;ne posjeduje bazen i fitness centar;ne;2;0;1;4,54;RS;88;da
+56;apartman;7,4;nema parking;ima bazen i fitness centar;ne;1;0;1;5,54;RS;59;ne
+57;apartman;7;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;4,54;FBIH;88;ne
+58;apartman;6;nema parking;ne posjeduje bazen i fitness centar;ne;2;0;1;5,01;RS;65;ne
+59;apartman;9,9;nema parking;ne posjeduje bazen i fitness centar;ne;2;0;1;5,54;RS;59;ne
+60;apartman;7,6;ima parking;ne posjeduje bazen i fitness centar;da;2;1;1;1,92;FBIH;132;da
+61;apartman;7,7;ima parking;ne posjeduje bazen i fitness centar;da;1;0;1;3,9;FBIH;100;da
+62;apartman;8;ima parking;ima bazen i fitness centar;da;2;1;2;2,24;FBIH;151;da
+63;apartman;9,4;ima parking;ne posjeduje bazen i fitness centar;da;1;0;1;2,02;FBIH;121;da
+64;apartman;9,4;ima parking;ne posjeduje bazen i fitness centar;da;2;1;2;2,38;FBIH;147;da
+65;apartman;9,1;ima parking;ima bazen i fitness centar;da;2;2;3;0,49;FBIH;170;da
+66;apartman;8,9;ima parking;ne posjeduje bazen i fitness centar;da;2;0;1;2,51;FBIH;130;da
+67;hotel;9,3;ima parking;ima bazen i fitness centar;da;2;0;1;0,34;FBIH;196;da
+68;apartman;9;ima parking;ne posjeduje bazen i fitness centar;ne;2;2;2;2,25;FBIH;149;da
+69;apartman;7,6;nema parking;ne posjeduje bazen i fitness centar;ne;2;0;1;4;RS;98;da
+70;apartman;9,2;ima parking;ima bazen i fitness centar;ne;1;0;1;4,54;RS;88;da
+71;apartman;9,6;ima parking;ne posjeduje bazen i fitness centar;da;1;0;1;3,46;FBIH;111;da
+72;apartman;8,2;ima parking;ne posjeduje bazen i fitness centar;ne;2;1;1;2,56;FBIH;117;ne
+73;apartman;8,4;ima parking;ne posjeduje bazen i fitness centar;da;2;2;2;3,893254194;FBIH;137;ne
+74;apartman;9,3;ima parking;ne posjeduje bazen i fitness centar;ne;3;0;1;2,56;FBIH;117;da
+75;apartman;8,8;ima parking;ima bazen i fitness centar;ne;2;1;1;2,52;FBIH;131;da
+76;apartman;8,8;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;4,28;RS;91;ne
+77;apartman;9,3;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;4,1;RS;98;da
+78;apartman;9,3;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;2,56;FBIH;117;da
+79;apartman;8,4;ima parking;ne posjeduje bazen i fitness centar;ne;3;0;2;3,9;FBIH;100;da
+80;apartman;9,5;ima parking;ne posjeduje bazen i fitness centar;da;3;0;2;3,97;FBIH;108;da
+81;apartman;9,3;nema parking;ne posjeduje bazen i fitness centar;ne;2;2;2;0,47;FBIH;145;da
+82;apartman;9,5;ima parking;ne posjeduje bazen i fitness centar;da;2;3;3;0,38;FBIH;250;da
+83;hotel;9,3;ima parking;ima bazen i fitness centar;da;2;0;2;0,26;FBIH;475;da
+84;apartman;9,2;ima parking;ne posjeduje bazen i fitness centar;ne;1;0;1;1,732620804;FBIH;102;ne
+85;apartman;9,3;ima parking;ne posjeduje bazen i fitness centar;da;2;0;1;4,56;RS;90;ne
+86;apartman;7,5;nema parking;ima bazen i fitness centar;da;2;4;4;0,55;FBIH;196;da
+87;apartman;6,5;ima parking;ima bazen i fitness centar;da;2;0;1;2,04;FBIH;127;ne
+88;apartman;8,5;ima parking;ne posjeduje bazen i fitness centar;ne;2;3;3;0,49;FBIH;170;da
+89;apartman;8,1;ima parking;ima bazen i fitness centar;da;2;3;4;0,4;FBIH;231;da
+90;apartman;7,3;ima parking;ne posjeduje bazen i fitness centar;ne;1;0;1;1,92;RS;78;ne
+91;apartman;9,3;ima parking;ne posjeduje bazen i fitness centar;da;2;1;2;5,902076232;FBIH;137;da
+92;apartman;9,4;nema parking;ne posjeduje bazen i fitness centar;ne;2;1;2;7,017906754;RS;106;da
+93;apartman;9,3;ima parking;ne posjeduje bazen i fitness centar;da;2;0;1;0,750394578;FBIH;135;da
+94;apartman;8,1;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;3,400896885;RS;57;ne
+95;apartman;8,6;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;3,403098486;RS;98;da
+96;apartman;9,4;ima parking;ne posjeduje bazen i fitness centar;da;2;2;2;3,003068636;FBIH;166;da
+97;apartman;9;ima parking;ne posjeduje bazen i fitness centar;da;2;0;1;3,571400787;FBIH;156;da
+98;apartman;9,5;ima parking;ne posjeduje bazen i fitness centar;ne;1;1;2;4,665411412;FBIH;141;da
+99;apartman;8,9;ima parking;ne posjeduje bazen i fitness centar;da;2;1;2;4,157070173;FBIH;143;da
+100;apartman;7,9;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;1,615294729;RS;91;da
+101;apartman;9,2;ima parking;ne posjeduje bazen i fitness centar;ne;2;2;2;3,781331059;FBIH;141;ne
+102;apartman;9,6;ima parking;ne posjeduje bazen i fitness centar;da;2;1;2;0,585182932;FBIH;141;ne
+103;apartman;9,3;ima parking;ima bazen i fitness centar;da;3;0;1;1,930701659;FBIH;178;da
+104;apartman;9,6;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;5,039233176;RS;98;ne
+105;apartman;8,4;ima parking;ima bazen i fitness centar;da;2;0;1;3,59922212;FBIH;124;da
+106;apartman;9,7;nema parking;ne posjeduje bazen i fitness centar;ne;1;0;1;1,499363141;FBIH;79;ne
+107;apartman;9,1;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;3,716679326;RS;80;da
+108;apartman;9,2;ima parking;ima bazen i fitness centar;da;2;2;2;1,810540319;FBIH;156;da
+109;apartman;9,3;ima parking;ima bazen i fitness centar;ne;2;0;1;0,653966982;FBIH;156;da
+110;apartman;9,2;nema parking;ne posjeduje bazen i fitness centar;ne;2;0;1;5,88;RS;47;ne
+111;apartman;9,3;ima parking;ima bazen i fitness centar;da;2;3;3;1,407110201;FBIH;196;da
+112;apartman;9,1;ima parking;ne posjeduje bazen i fitness centar;da;1;1;1;2,678092001;FBIH;108;da
+113;apartman;8,8;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;2,061576555;RS;98;da
+114;apartman;7,9;nema parking;ne posjeduje bazen i fitness centar;ne;1;0;1;1,792237506;RS;50;ne
+115;apartman;8,7;ima parking;ima bazen i fitness centar;da;2;1;2;3,342648051;FBIH;144;da
+116;hotel;9;ima parking;ima bazen i fitness centar;da;3;1;3;1,226599845;FBIH;241;da
+117;apartman;7,6;ima parking;ima bazen i fitness centar;ne;1;2;2;2,618709401;RS;133;ne
+118;apartman;7,6;ima parking;ima bazen i fitness centar;da;2;1;2;2,850957024;RS;147;da
+119;hotel;8,4;ima parking;ima bazen i fitness centar;da;1;1;1;10,72348325;FBIH;217;da
+120;hotel;9,8;ima parking;ima bazen i fitness centar;da;2;0;2;4,934493705;FBIH;224;da
+121;apartman;7,8;ima parking;ne posjeduje bazen i fitness centar;ne;2;2;2;1,816301136;FBIH;160;da
+122;hotel;8,3;ima parking;ima bazen i fitness centar;ne;3;0;1;4,295560863;FBIH;208;da
+123;hotel;8,7;ima parking;ima bazen i fitness centar;da;1;0;1;3,372097292;FBIH;184;da
+124;apartman;8,4;ima parking;ima bazen i fitness centar;da;2;2;2;1,960856865;RS;168;da
+125;apartman;9,2;ima parking;ne posjeduje bazen i fitness centar;ne;2;3;3;3,141294801;FBIH;203;da
+126;apartman;9,1;ima parking;ne posjeduje bazen i fitness centar;da;2;4;3;1,680914916;FBIH;254;da
+127;hotel;8,6;ima parking;ima bazen i fitness centar;da;3;0;2;1,934392383;FBIH;316;da
+128;apartman;9,3;ima parking;ima bazen i fitness centar;da;2;2;2;1,247545183;FBIH;196;da
+129;apartman;8,6;ima parking;ima bazen i fitness centar;ne;3;0;2;2,870363253;FBIH;186;da
+130;apartman;9,5;ima parking;ne posjeduje bazen i fitness centar;da;1;2;2;7,72305318;FBIH;174;da
+131;apartman;8,7;ima parking;ima bazen i fitness centar;ne;2;2;2;2,064980564;FBIH;145;ne
+132;apartman;8,1;ima parking;ne posjeduje bazen i fitness centar;ne;3;1;2;2,473502567;FBIH;117;ne
+133;apartman;8,6;ima parking;ne posjeduje bazen i fitness centar;da;2;2;2;0,218366102;FBIH;156;da
+134;apartman;8,6;ima parking;ne posjeduje bazen i fitness centar;ne;1;1;2;0,724210661;FBIH;127;da
+135;apartman;8,5;ima parking;ne posjeduje bazen i fitness centar;ne;1;2;2;2,010016972;FBIH;162;ne
+136;apartman;9,4;ima parking;ne posjeduje bazen i fitness centar;da;2;3;3;1,154753564;FBIH;252;da
+137;apartman;9,5;ima parking;ne posjeduje bazen i fitness centar;da;2;3;3;1,837632898;FBIH;205;da
+138;apartman;8,9;ima parking;ne posjeduje bazen i fitness centar;ne;1;2;3;1,088797787;FBIH;111;da
+139;apartman;8,6;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;1,388807901;FBIH;113;da
+140;apartman;9,1;ima parking;ne posjeduje bazen i fitness centar;da;1;1;2;0,711000885;FBIH;196;da
+141;apartman;9;ima parking;ne posjeduje bazen i fitness centar;da;1;2;2;3,41830516;FBIH;217;da
+142;apartman;7;nema parking;ne posjeduje bazen i fitness centar;ne;2;0;1;3,38582616;RS;63;da
+143;apartman;9,5;ima parking;ne posjeduje bazen i fitness centar;da;2;0;1;3,681101902;FBIH;186;da
+144;apartman;8;ima parking;ne posjeduje bazen i fitness centar;da;1;2;2;1,187618625;FBIH;202;da
+145;apartman;9,5;ima parking;ne posjeduje bazen i fitness centar;da;2;0;2;3,76905312;FBIH;166;da
+146;apartman;9;ima parking;ne posjeduje bazen i fitness centar;ne;2;1;2;2,196436786;FBIH;125;da
+147;apartman;8,9;ima parking;ne posjeduje bazen i fitness centar;ne;3;0;2;8,283327632;FBIH;196;da
+148;apartman;9,1;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;3,75214156;FBIH;146;da
+149;apartman;8,8;ima parking;ne posjeduje bazen i fitness centar;da;2;2;2;2,407442724;FBIH;196;da
+150;apartman;8,7;ima parking;ne posjeduje bazen i fitness centar;da;2;2;2;8,568407506;FBIH;186;da
+151;apartman;9,1;ima parking;ne posjeduje bazen i fitness centar;ne;2;2;2;1,101164484;FBIH;171;da
+152;apartman;9,5;ima parking;ima bazen i fitness centar;ne;2;0;1;2,378975833;FBIH;117;da
+153;apartman;8;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;8,56840478;RS;59;da
+154;apartman;9;ima parking;ima bazen i fitness centar;ne;2;0;1;3,603560473;FBIH;117;da
+155;apartman;7,8;ima parking;ima bazen i fitness centar;da;2;3;2;3,018615586;FBIH;182;da
+156;apartman;9;ima parking;ima bazen i fitness centar;da;2;3;2;0,763283913;FBIH;305;ne
+157;apartman;7,8;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;4,137211264;RS;63;ne
+158;apartman;8,1;nema parking;ima bazen i fitness centar;ne;2;0;1;3,636776791;RS;86;ne
+159;apartman;8,2;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;0,970918827;RS;98;da
+160;apartman;8,5;ima parking;ne posjeduje bazen i fitness centar;da;1;0;1;2,119623202;FBIH;94;da
+161;apartman;9,4;ima parking;ima bazen i fitness centar;ne;1;1;2;1,937848875;FBIH;125;ne
+162;apartman;8,6;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;3,710792891;FBIH;91;da
+163;hotel;8,3;ima parking;ima bazen i fitness centar;da;2;0;1;1,005784873;FBIH;234;da
+164;apartman;7,6;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;4,718971514;RS;91;da
+165;apartman;8,3;ima parking;ne posjeduje bazen i fitness centar;da;1;0;1;4,456138822;FBIH;137;da
+166;apartman;8,3;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;4,018532277;RS;117;da
+167;apartman;9,4;ima parking;ima bazen i fitness centar;ne;2;0;1;2,430391497;FBIH;115;da
+168;apartman;9,7;ima parking;ne posjeduje bazen i fitness centar;da;2;0;1;3,168237066;FBIH;97;ne
+169;apartman;8,6;ima parking;ima bazen i fitness centar;ne;2;1;2;0,958099225;FBIH;106;da
+170;apartman;6,6;ima parking;ne posjeduje bazen i fitness centar;da;2;0;1;0,371439545;RS;121;da
+171;apartman;8,5;ima parking;ima bazen i fitness centar;ne;1;0;1;2,146646791;FBIH;102;da
+172;apartman;9,3;ima parking;ne posjeduje bazen i fitness centar;da;2;0;1;3,472098019;FBIH;116;da
+173;apartman;9,4;ima parking;ne posjeduje bazen i fitness centar;da;2;0;1;2,219048516;FBIH;117;da
+174;apartman;7,5;ima parking;ne posjeduje bazen i fitness centar;ne;2;2;2;1,258901386;RS;145;da
+175;apartman;5,9;ima parking;ne posjeduje bazen i fitness centar;ne;1;0;1;10,85349274;RS;78;ne
+176;apartman;9,1;nema parking;ne posjeduje bazen i fitness centar;ne;2;0;1;0,161331963;FBIH;86;ne
+177;apartman;8,9;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;3,312730494;FBIH;78;ne
+178;apartman;8,9;nema parking;ne posjeduje bazen i fitness centar;da;2;0;1;2,264520516;FBIH;113;da
+179;apartman;9,1;ima parking;ne posjeduje bazen i fitness centar;ne;2;1;1;1,133040039;FBIH;135;da
+180;apartman;7,4;nema parking;ne posjeduje bazen i fitness centar;da;2;0;1;2,379144746;RS;100;da
+181;apartman;8,6;ima parking;ne posjeduje bazen i fitness centar;da;1;0;1;1,590912121;FBIH;74;ne
+182;apartman;7,9;ima parking;ima bazen i fitness centar;ne;2;2;2;2,178444728;RS;211;da
+183;apartman;5,1;ima parking;ne posjeduje bazen i fitness centar;ne;1;0;1;0,693777039;RS;91;ne
+184;apartman;7,2;nema parking;ne posjeduje bazen i fitness centar;da;1;0;1;1,525066177;RS;84;ne
+185;apartman;6,4;nema parking;ne posjeduje bazen i fitness centar;ne;2;2;2;6,37540638;RS;132;da
+186;apartman;7,3;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;2,285602199;RS;100;da
+187;apartman;8,9;ima parking;ima bazen i fitness centar;da;1;2;2;2,474167401;FBIH;160;da
+188;apartman;8,4;ima parking;ne posjeduje bazen i fitness centar;da;1;1;1;6,050694737;FBIH;125;ne
+189;apartman;9,8;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;10,45321955;FBIH;110;da
+190;apartman;7,8;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;4,599353595;FBIH;111;da
+191;apartman;8,1;ima parking;ne posjeduje bazen i fitness centar;da;1;0;1;2,528586709;FBIH;102;da
+192;apartman;8,9;ima parking;ne posjeduje bazen i fitness centar;da;2;0;1;4,774310109;FBIH;91;da
+193;apartman;9,5;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;1,050278308;FBIH;108;da
+194;apartman;8,7;ima parking;ne posjeduje bazen i fitness centar;ne;1;0;1;1,750366502;FBIH;129;ne
+195;apartman;9,4;ima parking;ne posjeduje bazen i fitness centar;da;2;0;1;0,593229196;FBIH;102;da
+196;apartman;7,3;ima parking;ne posjeduje bazen i fitness centar;ne;1;3;1;5,212966509;RS;109;da
+197;hotel;6,9;ima parking;ne posjeduje bazen i fitness centar;da;2;0;1;2,661272899;RS;88;da
+198;apartman;9,4;ima parking;ima bazen i fitness centar;ne;3;0;1;2,159382048;FBIH;131;da
+199;apartman;9,5;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;0,394035856;FBIH;100;da
+200;apartman;8,8;ima parking;ne posjeduje bazen i fitness centar;ne;2;0;1;2,210546343;FBIH;129;da
